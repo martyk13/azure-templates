@@ -1,2 +1,0 @@
-# azure-templates
-test edit
